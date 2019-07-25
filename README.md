@@ -1,2 +1,2 @@
-# mauvemist.github.io
+# MauveMist
 Official web site
